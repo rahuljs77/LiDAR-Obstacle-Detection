@@ -1,5 +1,4 @@
 # Lidar Obstacle Detection 
-## Sensor Fusion Engineer Nanodegree
 
 This project contains code that demonstrates techniques of working 
 with the real point cloud data collected with the Lidar sensor. 
